@@ -16,7 +16,7 @@ An interesting mini game. It looks easy but you can't complete the challenge eas
 
 #### WKU Assistant (with WKU Navigator)
 
-Now we are maintaining WKU Assistant. We are planning to update all old data and re-design the layout to help user to use. We want to merge the most functions that a WKU student will use.
+It is a useful information query WeChat-mini-application with some resource booking resource. It was once developed by WKU student, and now TCC is maintaining and updating the database to keep the data accurate for WKU students. We are planning to re-design the layout to enhance students' experience. Since there are different platforms for WKU students to finish their daily job, but not one, we also want to merge the most functions that a WKU student will use into the WKU Assistant.
 
 #### MCU/Raspberry Pi Remote Car
 
@@ -32,7 +32,7 @@ We are creating a language. We will make it as precise, customizable and powerfu
 
 #### Japanese Katakana Characterization Project (電算用語漢字化計画):
 
-It is known that many terminologies related to Computer Science is translated into Katakana by transliteration. However, there is still many terminologies using Kanji. Kanji can be more "meaningful" than Katakana, because characters has it own meaning, but Katakana represents only the articulation. Also, we found that if all terminologies are represented in Kanji can increase the readability. Our group is planning to do the characterization (re-translate terminologies by using Kanji, 漢字化) of the Katakana terminologies in Japanese.
+It is known that many terminologies related to Computer Science is translated into Katakana by transliteration in Japanese. However, there is still many terminologies represented by Kanji. Kanji can be more "meaningful" than Katakana, because characters has it own meaning, but Katakana only represents the articulation. Also, we found that if all terminologies are represented in Kanji can increase the readability. Our group is collaborating with Japanese Club, planning to do the characterization (re-translate terminologies by using Kanji, 漢字化) of the Katakana terminologies in Japanese. We are now doing the characterization job on an open-source software MultiMC, to find and translate the Katakana words into Kanji.
 
 
 ### Contact us
